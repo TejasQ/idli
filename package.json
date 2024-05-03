@@ -1,0 +1,38 @@
+{
+  "name": "idli",
+  "version": "0.1.0",
+  "description": "A CLI, but with AI.",
+  "main": "dist/main.js",
+  "bin": {
+    "idli": "dist/main.js"
+  },
+  "scripts": {
+    "build": "esbuild main.ts --bundle --platform=node --outfile=dist/main.js",
+    "preversion": "npm run build"
+  },
+  "files": [
+    "dist/main.js"
+  ],
+  "keywords": [
+    "CLI",
+    "AI"
+  ],
+  "author": {
+    "email": "tejas@tejas.qa",
+    "name": "Tejas Kumar",
+    "url": "https://tej.as"
+  },
+  "devDependencies": {
+    "@types/node": "^20.12.7",
+    "esbuild": "^0.20.2",
+    "typescript": "^5.4.5"
+  },
+  "dependencies": {
+    "@inquirer/prompts": "^5.0.1",
+    "commander": "^12.0.0",
+    "node-clipboardy": "^1.0.3",
+    "openai": "^4.38.5",
+    "openpipe": "^0.12.0",
+    "ora": "^8.0.1"
+  }
+}
