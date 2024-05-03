@@ -2,6 +2,8 @@
 
 As developers, we sometimes need to use `ffmpeg` for something simple like converting a video to a gif, but we often can't quite remember the exact command to use. We end up searching the internet for the command, and then copy-pasting it into our terminal. This is where Idli comes in.
 
+[Watch the video](https://youtu.be/1RoZOBGuP10)
+
 ![Idli in action](demo.gif)
 
 Idli is a CLI AI copilot that helps you with your day-to-day tasks. It is a command-line tool that uses AI to generate commands for you. You can ask Idli how to do something in natural language, and it will generate the command for you and offer to run it, copy it, or exit.
