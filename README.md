@@ -26,7 +26,7 @@ This will generate the command for you. You can then choose to run it, copy it, 
 
 ## Contributing
 
-I made this by myself for myself. If there's some issue you face or use case it's not meeting, let's add it together. Start by [opening an issue](issues/new) and we'll take it from there.
+I made this by myself for myself. If there's some issue you face or use case it's not meeting, let's add it together. Start by [opening an issue](https://github.com/tejasq/idli/issues/new) and we'll take it from there.
 
 ## Why is the logo an egg and not an idli?
 
@@ -38,4 +38,4 @@ There is no idli emoji unfortunately, so an egg looks close enough—especially 
 
 ![misshapen idlis](https://images.unsplash.com/photo-1630383249896-424e482df921?q=80&w=3160&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
 
-If you'd like to help get an idli emoji, please [upvote this issue](issues/1) so we can get it added to Unicode. 🙏
+If you'd like to help get an idli emoji, please [upvote this issue](https://github.com/TejasQ/idli/issues/1) so we can get it added to Unicode. 🙏
